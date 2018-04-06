@@ -15,7 +15,7 @@ public class JavaApplication {
 
     
      private static Scanner teclado = new Scanner(System.in);
-     private static String nombre = new String();
+     private static String nombre;
     /**
      * @param args the command line arguments
      */
