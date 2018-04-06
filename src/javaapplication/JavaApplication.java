@@ -21,7 +21,7 @@ public class JavaApplication {
      */
     public static void main(String[] args) {
         nombre = teclado.next();
-        System.out.println("holas \n" + nombre);
+        System.out.println("hola men \n" + nombre);
         
     }
     
